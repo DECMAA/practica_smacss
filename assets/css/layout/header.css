@@ -1,0 +1,12 @@
+.l-header{
+    background-color: #fff;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.l-nav{
+    display: flex;
+    gap: 20px;
+}

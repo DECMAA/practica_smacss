@@ -1,0 +1,9 @@
+/*activa el inicio*/
+.is-activo{
+    font-weight: bold;
+    color: royalblue;
+}
+/*inactiva o quita boton html*/
+.is-hidden{
+    display: none;
+}
