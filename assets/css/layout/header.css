@@ -10,3 +10,8 @@
     display: flex;
     gap: 20px;
 }
+
+.header__title{
+    color: rgb(215, 215, 250);
+
+}
